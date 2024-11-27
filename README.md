@@ -1,6 +1,6 @@
 # HackNoel - Hackathon for High School Students
 
-Welcome to HackNoel! Is an end-of-year hackathon hosted by Youth Code Camp, in partnership with Lycée de Kigali. It brings together students from secondary schools across Rwanda. 
+Welcome to HackNoel! Is an end-of-year hackathon hosted by Youth Code Camp. It brings together students from secondary schools across Rwanda. 
 ## About HackNoel
 
 Students will work on their projects, creating web apps, mobile apps, chatbots, and solutions involving IoT and AI to address challenges in healthcare, education, and community services.
