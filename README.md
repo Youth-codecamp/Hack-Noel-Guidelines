@@ -1,63 +1,74 @@
 # HackNoel - Hackathon for High School Students
 
-Welcome to HackNoel! Is an end-of-year hackathon hosted by Youth Code Camp. It brings together students from secondary schools across Rwanda. 
-## About HackNoel
-
-Students will work on their projects, creating web apps, mobile apps, chatbots, and solutions involving IoT and AI to address challenges in healthcare, education, and community services.
-It’s a fun and meaningful way to end the year while learning, building, and making a positive impact in Rwanda!
-
-### **Theme of HackNoel:**
-**Coding for a Brighter Future**  
-This year, the theme of HackNoel is all about using coding to make the future better. We believe that coding can help us find new solutions to important problems. Join us to help make Rwanda a better place!
+Welcome to **HackNoel!** HackNoel is an end-of-year hackathon hosted by Youth Code Camp. It brings together students from secondary schools to showcase their creativity, teamwork, and coding skills.
 
 ---
+
+## About HackNoel
+
+At HackNoel, students will work on exciting projects such as creating:
+- Web apps
+- Mobile apps
+- Chatbots
+- Solutions involving IoT and more
+
+The projects will address challenges in **healthcare, education, and community services**, making a positive impact in the community. HackNoel is a meaningful and fun way to close the year by learning and building together.
+
+---
+
+## Theme of HackNoel: **Coding for a Brighter Future**
+
+This year’s theme focuses on finding new and innovative solutions to real-world problems through coding. We believe coding is a powerful tool to create a better future. Join us to make a difference!
+
+---
+
 ## Team Formation
 
 ### **Forming Your Team:**
-- You will come to HackNoel as a **team of 5 members**.
-- You **must** form your own team before registering. We will not help you find teammates.
-- Each team should have **5 members**.
+- Participants can either:
+  - Come as a **team of 5 members** (formed before registering), or  
+  - Join **solo**, and we will help you find a team at the event.
+- If you’re coming as a team, ensure your team is complete before signing up.
+- **Note:** Solo participants will be matched with others to form teams during HackNoel.
 
 ---
 
-
 ## Judging Criteria
 
-### **How We Will Judge Your Projects:**
-The judges will look at these things when judging your project:
+### **How Projects Will Be Judged:**
+The judges will assess your projects based on these criteria:
 
-1. **Creativity & Innovation**  
-   - How unique and creative is your project? Does it solve a problem in a new way?
+- **Creativity & Innovation**: 
+  How unique and creative is your project? Does it solve a problem in a new way?
 
-2. **Functionality**  
-   - Does your project work well? Does it do what you want it to do?
+- **Functionality**: 
+  Does your project work well? Does it do what it’s designed to do?
 
-3. **Impact**  
-   - Will your project make a difference in people's lives?
+- **Impact**: 
+  Will your project make a meaningful difference in people’s lives?
 
-4. **Technical Skills**  
-   - How well have you applied your coding skills to build your project?
+- **Technical Skills**: 
+  How effectively have you used your coding skills to build your project?
 
-5. **Presentation**  
-   - Can you explain your project clearly? Do you show how it works?
+- **Presentation**: 
+  Can you explain your project clearly and showcase how it works?
 
 ---
 
 ## Important Notes
 
-- **No Plagiarism**: Your project should be your own work. If it is found that you copied someone else’s work, you may be disqualified.
-- **Be Respectful**: Treat your teammates, other participants, and event organizers with respect.
-- **Have Fun**: HackNoel is a chance to learn and grow. Enjoy the process and don’t worry too much about winning!
+- **No Plagiarism**: All work should be original. Projects found to be copied from others may lead to disqualification.
+- **Attendance Matters**: If you register and don’t show up, you may prevent others from participating due to limited spots. Please ensure your commitment.
+- **Be Respectful**: Treat teammates, participants, and organizers with respect.
+- **Enjoy the Event**: HackNoel is all about learning and growing. Have fun and enjoy the journey!
 
 ---
 
 ## Contact Us
 
-If you have any questions, email us at:  
-📧 [youthcodecamp@gmail.com](mailto:youthcodecamp@gmail.com)
+If you have any questions, feel free to reach out to us:
+📧 Email: **youthcodecamp@gmail.com**
 
-We’re excited to have you join HackNoel, and we can't wait to see what great projects you'll create!
+We are excited to welcome you to HackNoel and can’t wait to see the amazing projects you create! Let’s build something great together.
 
 ---
-
-### Get ready for HackNoel and let’s create something great together!
