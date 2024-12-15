@@ -26,7 +26,7 @@ This year’s theme focuses on finding new and innovative solutions to real-worl
 
 ### **Forming Your Team:**
 - Participants can either:
-  - Come as a **team of 5 members** (formed before registering), or  
+  - Come as a **team of 4 members** (formed before registering), or  
   - Join **solo**, and we will help you find a team at the event.
 - If you’re coming as a team, ensure your team is complete before signing up.
 - **Note:** Solo participants will be matched with others to form teams during HackNoel.
